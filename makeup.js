@@ -116,7 +116,7 @@ function draw() {
       timerStarted = false;
 
       // ✅ REDIRECT TO FINAL.JS
-      window.location.href = "final.js";
+      window.location.href = "https://katushok.github.io/GSWM_3/";
     }
   }
 }
